@@ -1,0 +1,8 @@
+﻿1. Ensure that you have connected your controller to the game
+2. The game consists of the player character, platforms, both statics and moving, and coins
+3. The player is moved by maneuvering with the joystick to move left and right, and has the ability jump by using the jump button your controller
+4. The moving platforms will move out from under the player to make the platforming a bit more challenging
+5. The aim of this game is to reach the appropriate end of the game without allowing your score to drop below 0
+6. The player increases their score by collecting the coins above each platform, and loses score for every death the player has (so the further you make it the more attempts you have at completion)
+7. Until the score is below 0, the player will respawn at the beginning after every death
+8. Aim to finish the course once, and then feel free to continue playing to achieve the highest score possible
